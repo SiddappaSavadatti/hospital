@@ -8,6 +8,7 @@ const Login = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const a = "dhanush"
+  const c= "Vamsi"
   const navigate = useNavigate();
 
   const handleLogin = async (e) => {
