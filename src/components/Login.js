@@ -52,7 +52,7 @@ const Login = () => {
 
   return (
     <div className="login_container">
-      <h2>LOGIN TO HOSPITAL</h2>
+      <h2>LOGIN TO MY HOSPITAL </h2>
       <form onSubmit={handleLogin} className="login-form">
         <div className="input-group">
           <label htmlFor="username">Username:</label>
